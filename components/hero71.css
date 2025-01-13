@@ -1,0 +1,41 @@
+.hero71-max-width {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.hero71-content {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  max-width: 1000px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.hero71-text1 {
+  text-align: center;
+}
+ 
+.hero71-text2 {
+  text-align: center;
+}
+ 
+.hero71-fragment1 {
+  display: contents;
+}
+ 
+.hero71-text3 {
+  display: inline-block;
+}
+ 
+.hero71-fragment2 {
+  display: contents;
+}
+ 
+.hero71-text4 {
+  display: inline-block;
+}
+ 
+
