@@ -184,10 +184,6 @@
   display: inline-block;
 }
  
-.features252root-class-name {
-  display: none;
-}
- 
 @media(max-width: 991px) {
   .features252-container2 {
     grid-gap: var(--dl-space-space-twounits);
